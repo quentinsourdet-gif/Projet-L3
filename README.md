@@ -13,6 +13,7 @@ Treillis de type Warren pour optimiser la résistance et la consommation de mat�
 Colle privilégiée aux vis pour éviter les concentrations de contraintes
 Structure théorique de treillis, mais comportement réel proche d’un assemblage rigide (liaisons collées)
 Finition esthétique avec peinture
+
 Tests et validation
 
 Plusieurs tests ont été effectués :
@@ -20,12 +21,13 @@ Plusieurs tests ont été effectués :
 Vérification de l’adaptation à la plateforme de test
 Tests de résistance sur zones critiques (nœuds, extrémités, centre)
 Essai complet avec le robot et la bande roulante
+
 Résultats
 
 La passerelle a rempli sa fonction :
 
 Passage du robot validé jusqu’à la plateforme de tir
-Résistance validée jusqu’à environ 150 N avant rupture (flèche centrale mesurée, valeur de rupture finale non précisée)
-Conclusion
+Résistance validée jusqu’à environ 150 N avant rupture (flèche centrale à 15N mesurée 0.6mm, valeur de rupture finale à 120N)
 
+Conclusion
 Le projet a permis d’appliquer des notions de conception mécanique et de résistance des structures. La solution retenue (treillis Warren + collage) a donné une structure légère, efficace et conforme aux contraintes, validée par les tests expérimentaux.
